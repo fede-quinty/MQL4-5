@@ -8,6 +8,7 @@
 #property version   "1.00"
 #property strict
 
+// Questa è la modifica di mimicco
 
 input string a="Year Month Day Hours Minutes Seconds";// Date
 input string String_0="Name_0";// Name Screenshot 0
